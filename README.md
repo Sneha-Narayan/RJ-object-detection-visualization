@@ -185,5 +185,3 @@ This tool is specifically designed for URC search tasks where:
 - You need efficient coverage patterns
 - Time optimization matters
 - Camera specifications are critical
-
-Good luck with your URC competition! 🚀
